@@ -1,0 +1,170 @@
+championName,role,genre,espece,ressource,range,regions,releaseDate,iconUrl
+Aatrox,Top,Masculin,Darkin,Puits de sang,Melee,Runeterra,2013-06-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Aatrox.png
+Ahri,Mid,Feminin,Vastaya,Mana,Ranged,Ionia,2011-12-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ahri.png
+Akali,Mid,Feminin,Humain,Energie,Melee,Ionia,2010-05-11,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Akali.png
+Akshan,Mid,Masculin,Humain,Mana,Ranged,Shurima,2021-07-22,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Akshan.png
+Alistar,Support,Masculin,Minotaure,Mana,Melee,Runeterra,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Alistar.png
+Ambessa,Top,Feminin,Humain,Energie,Melee,Noxus,2024-11-06,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ambessa.png
+Amumu,Jungle,Masculin,Yordle,Mana,Melee,Shurima,2009-06-26,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Amumu.png
+Anivia,Mid,Feminin,Esprit,Mana,Ranged,Freljord,2009-07-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Anivia.png
+Annie,Mid,Feminin,Humain,Mana,Ranged,Noxus,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Annie.png
+Aphelios,ADC,Masculin,Humain,Mana,Ranged,Targon,2019-12-11,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Aphelios.png
+Ashe,ADC,Feminin,Humain,Mana,Ranged,Freljord,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ashe.png
+Aurelion Sol,Mid,Masculin,Dragon celeste,Mana,Ranged,Targon,2016-03-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/AurelionSol.png
+Aurora,Mid,Feminin,Vastaya,Mana,Ranged,Freljord,2024-07-17,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Aurora.png
+Azir,Mid,Masculin,Transfiguré,Mana,Ranged,Shurima,2014-09-16,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Azir.png
+Bard,Support,Autre,Celeste,Mana,Ranged,Runeterra,2015-03-12,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Bard.png
+Bel'Veth,Jungle,Feminin,Néant,Aucun,Melee,Néant,2022-06-09,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/BelVeth.png
+Blitzcrank,Support,Autre,Golem,Mana,Melee,Zaun,2009-09-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Blitzcrank.png
+Brand,Support,Masculin,Esprit,Mana,Ranged,Runeterra,2011-04-12,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Brand.png
+Braum,Support,Masculin,Humain,Mana,Melee,Freljord,2014-05-12,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Braum.png
+Briar,Jungle,Feminin,Goule,Santé,Melee,Noxus,2023-09-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Briar.png
+Caitlyn,ADC,Feminin,Humain,Mana,Ranged,Piltover,2011-01-04,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Caitlyn.png
+Camille,Top,Feminin,Cyborg,Mana,Melee,Piltover,2016-12-07,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Camille.png
+Cassiopeia,Mid,Feminin,Humain altéré,Mana,Ranged,Noxus,2010-12-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Cassiopeia.png
+Cho'Gath,Top,Masculin,Néant,Mana,Melee,Néant,2009-06-26,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/ChoGath.png
+Corki,Mid,Masculin,Yordle,Mana,Ranged,Piltover,2009-09-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Corki.png
+Darius,Top,Masculin,Humain,Mana,Melee,Noxus,2012-05-23,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Darius.png
+Diana,Jungle,Feminin,Humain,Mana,Melee,Targon,2012-08-07,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Diana.png
+Dr. Mundo,Top,Masculin,Humain altéré,Santé,Melee,Zaun,2009-09-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/DrMundo.png
+Draven,ADC,Masculin,Humain,Mana,Ranged,Noxus,2012-06-06,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Draven.png
+Ekko,Jungle,Masculin,Humain,Mana,Melee,Zaun,2015-05-28,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ekko.png
+Elise,Jungle,Feminin,Humain altéré,Mana,Mixed,Iles obscures,2012-10-26,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Elise.png
+Evelynn,Jungle,Feminin,Démon,Mana,Melee,Runeterra,2009-05-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Evelynn.png
+Ezreal,ADC,Masculin,Humain,Mana,Ranged,Piltover,2010-03-16,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ezreal.png
+Fiddlesticks,Jungle,Autre,Démon,Mana,Ranged,Runeterra,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Fiddlesticks.png
+Fiora,Top,Feminin,Humain,Mana,Melee,Demacia,2012-02-29,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Fiora.png
+Fizz,Mid,Masculin,Yordle,Mana,Melee,Bilgewater,2011-11-15,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Fizz.png
+Galio,Mid,Masculin,Golem,Mana,Melee,Demacia,2010-08-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Galio.png
+Gangplank,Top,Masculin,Humain,Mana,Melee,Bilgewater,2009-08-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Gangplank.png
+Garen,Top,Masculin,Humain,Aucun,Melee,Demacia,2010-04-27,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Garen.png
+Gnar,Top,Masculin,Yordle,Furie,Mixed,Freljord,2014-08-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Gnar.png
+Gragas,Jungle,Masculin,Humain,Mana,Melee,Freljord,2010-02-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Gragas.png
+Graves,Jungle,Masculin,Humain,Mana,Ranged,Bilgewater,2011-10-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Graves.png
+Gwen,Top,Feminin,Poupée vivante,Mana,Melee,Iles obscures,2021-04-15,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Gwen.png
+Hecarim,Jungle,Masculin,Esprit,Mana,Melee,Iles obscures,2012-04-18,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Hecarim.png
+Heimerdinger,Mid,Masculin,Yordle,Mana,Ranged,Piltover,2009-10-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Heimerdinger.png
+Hwei,Mid,Masculin,Humain,Mana,Ranged,Ionia,2023-12-06,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Hwei.png
+Illaoi,Top,Feminin,Humain,Mana,Melee,Bilgewater,2015-11-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Illaoi.png
+Irelia,Top,Feminin,Humain,Mana,Melee,Ionia,2010-11-16,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Irelia.png
+Ivern,Jungle,Masculin,Humain altéré,Mana,Ranged,Ionia,2016-10-05,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ivern.png
+Janna,Support,Feminin,Esprit,Mana,Ranged,Zaun,2009-09-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Janna.png
+Jarvan IV,Jungle,Masculin,Humain,Mana,Melee,Demacia,2011-03-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/JarvanIV.png
+Jax,Top,Masculin,Inconnu,Mana,Melee,Icathia,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Jax.png
+Jayce,Top,Masculin,Humain,Mana,Mixed,Piltover,2012-07-07,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Jayce.png
+Jhin,ADC,Masculin,Humain,Mana,Ranged,Ionia,2016-02-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Jhin.png
+Jinx,ADC,Feminin,Humain,Mana,Ranged,Zaun,2013-10-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Jinx.png
+K'Sante,Top,Masculin,Humain,Mana,Melee,Shurima,2022-11-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/KSante.png
+Kai'Sa,ADC,Feminin,Humain altéré,Mana,Ranged,Néant,2018-03-07,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/KaiSa.png
+Kalista,ADC,Feminin,Esprit,Mana,Ranged,Iles obscures,2014-11-20,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kalista.png
+Karma,Support,Feminin,Humain,Mana,Ranged,Ionia,2011-02-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Karma.png
+Karthus,Jungle,Masculin,Esprit,Mana,Ranged,Iles obscures,2009-06-12,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Karthus.png
+Kassadin,Mid,Masculin,Humain altéré,Mana,Melee,Néant,2009-08-07,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kassadin.png
+Katarina,Mid,Feminin,Humain,Aucun,Melee,Noxus,2009-09-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Katarina.png
+Kayle,Top,Feminin,Celeste,Mana,Mixed,Demacia,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kayle.png
+Kayn,Jungle,Masculin,Humain,Mana,Melee,Ionia,2017-07-12,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kayn.png
+Kennen,Top,Masculin,Yordle,Energie,Ranged,Ionia,2010-04-08,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kennen.png
+Kha'Zix,Jungle,Masculin,Néant,Mana,Melee,Néant,2012-09-27,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/KhaZix.png
+Kindred,Jungle,Autre,Esprit,Mana,Ranged,Runeterra,2015-10-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kindred.png
+Kled,Top,Masculin,Yordle,Courage,Melee,Noxus,2016-08-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Kled.png
+Kog'Maw,ADC,Masculin,Néant,Mana,Ranged,Néant,2010-06-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/KogMaw.png
+LeBlanc,Mid,Feminin,Humain,Mana,Ranged,Noxus,2010-11-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/LeBlanc.png
+Lee Sin,Jungle,Masculin,Humain,Energie,Melee,Ionia,2011-04-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/LeeSin.png
+Leona,Support,Feminin,Humain,Mana,Melee,Targon,2011-07-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Leona.png
+Lillia,Jungle,Feminin,Esprit,Mana,Melee,Ionia,2020-07-22,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Lillia.png
+Lissandra,Mid,Feminin,Humain altéré,Mana,Ranged,Freljord,2013-04-30,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Lissandra.png
+Lucian,ADC,Masculin,Humain,Mana,Ranged,Demacia,2013-08-22,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Lucian.png
+Lulu,Support,Feminin,Yordle,Mana,Ranged,Ionia,2012-03-20,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Lulu.png
+Lux,Support,Feminin,Humain,Mana,Ranged,Demacia,2010-10-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Lux.png
+Malphite,Top,Masculin,Golem,Mana,Melee,Ixtal,2009-09-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Malphite.png
+Malzahar,Mid,Masculin,Humain altéré,Mana,Ranged,Néant,2010-06-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Malzahar.png
+Maokai,Jungle,Masculin,Esprit,Mana,Melee,Iles obscures,2011-02-16,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Maokai.png
+Master Yi,Jungle,Masculin,Humain,Mana,Melee,Ionia,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/MasterYi.png
+Milio,Support,Masculin,Humain,Mana,Ranged,Ixtal,2023-03-22,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Milio.png
+Miss Fortune,ADC,Feminin,Humain,Mana,Ranged,Bilgewater,2010-09-08,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/MissFortune.png
+Mordekaiser,Top,Masculin,Esprit,Bouclier,Melee,Noxus,2010-02-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Mordekaiser.png
+Morgana,Support,Feminin,Celeste,Mana,Ranged,Demacia,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Morgana.png
+Naafiri,Mid,Feminin,Darkin,Mana,Melee,Shurima,2023-07-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Naafiri.png
+Nami,Support,Feminin,Vastaya,Mana,Ranged,Bilgewater,2012-12-07,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Nami.png
+Nasus,Top,Masculin,Transfiguré,Mana,Melee,Shurima,2009-10-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Nasus.png
+Nautilus,Support,Masculin,Esprit,Mana,Melee,Bilgewater,2012-02-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Nautilus.png
+Neeko,Mid,Feminin,Vastaya,Mana,Ranged,Ixtal,2018-12-05,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Neeko.png
+Nidalee,Jungle,Feminin,Humain,Mana,Mixed,Ixtal,2009-12-17,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Nidalee.png
+Nilah,ADC,Feminin,Humain,Mana,Melee,Bilgewater,2022-07-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Nilah.png
+Nocturne,Jungle,Autre,Démon,Mana,Melee,Runeterra,2011-03-15,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Nocturne.png
+Nunu & Willump,Jungle,Masculin,Humain/Yeti,Mana,Melee,Freljord,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/NunuWillump.png
+Olaf,Top,Masculin,Humain,Mana,Melee,Freljord,2010-06-09,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Olaf.png
+Orianna,Mid,Feminin,Golem,Mana,Ranged,Piltover,2011-06-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Orianna.png
+Ornn,Top,Masculin,Esprit,Mana,Melee,Freljord,2017-08-23,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ornn.png
+Pantheon,Top,Masculin,Humain,Mana,Melee,Targon,2010-02-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Pantheon.png
+Poppy,Top,Feminin,Yordle,Mana,Melee,Demacia,2010-01-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Poppy.png
+Pyke,Support,Masculin,Esprit,Mana,Melee,Bilgewater,2018-05-31,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Pyke.png
+Qiyana,Mid,Feminin,Humain,Mana,Melee,Ixtal,2019-06-28,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Qiyana.png
+Quinn,Top,Feminin,Humain,Mana,Ranged,Demacia,2013-03-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Quinn.png
+Rakan,Support,Masculin,Vastaya,Mana,Melee,Ionia,2017-04-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Rakan.png
+Rammus,Jungle,Masculin,Inconnu,Mana,Melee,Shurima,2009-07-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Rammus.png
+Rek'Sai,Jungle,Feminin,Néant,Furie,Melee,Néant,2014-12-11,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/RekSai.png
+Rell,Support,Feminin,Humain,Mana,Melee,Noxus,2020-12-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Rell.png
+Renata Glasc,Support,Feminin,Humain,Mana,Ranged,Zaun,2022-02-17,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/RenataGlasc.png
+Renekton,Top,Masculin,Transfiguré,Furie,Melee,Shurima,2011-01-18,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Renekton.png
+Rengar,Jungle,Masculin,Vastaya,Férocité,Melee,Ixtal,2012-08-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Rengar.png
+Riven,Top,Feminin,Humain,Aucun,Melee,Noxus,2011-09-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Riven.png
+Rumble,Top,Masculin,Yordle,Vapeur,Melee,Bandle,2011-04-26,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Rumble.png
+Ryze,Mid,Masculin,Humain,Mana,Ranged,Runeterra,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ryze.png
+Samira,ADC,Feminin,Humain,Mana,Mixed,Noxus,2020-09-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Samira.png
+Sejuani,Jungle,Feminin,Humain,Mana,Melee,Freljord,2012-01-17,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Sejuani.png
+Senna,Support,Feminin,Humain/Esprit,Mana,Ranged,Iles obscures,2019-11-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Senna.png
+Seraphine,Support,Feminin,Humain,Mana,Ranged,Piltover,2020-10-29,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Seraphine.png
+Sett,Top,Masculin,Vastaya,Agressivité,Melee,Ionia,2020-01-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Sett.png
+Shaco,Jungle,Masculin,Marionnette,Mana,Melee,Runeterra,2009-10-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Shaco.png
+Shen,Top,Masculin,Humain,Energie,Melee,Ionia,2010-03-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Shen.png
+Shyvana,Jungle,Feminin,Dragon,Furie,Melee,Demacia,2011-11-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Shyvana.png
+Singed,Top,Masculin,Humain,Mana,Melee,Zaun,2009-04-18,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Singed.png
+Sion,Top,Masculin,Mort-vivant,Mana,Melee,Noxus,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Sion.png
+Sivir,ADC,Feminin,Humain,Mana,Ranged,Shurima,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Sivir.png
+Skarner,Jungle,Masculin,Brackern,Mana,Melee,Ixtal,2011-08-09,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Skarner.png
+Smolder,ADC,Masculin,Dragon,Mana,Ranged,Runeterra,2024-01-31,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Smolder.png
+Sona,Support,Feminin,Humain,Mana,Ranged,Demacia,2010-09-20,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Sona.png
+Soraka,Support,Feminin,Celeste,Mana,Ranged,Targon,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Soraka.png
+Swain,Mid,Masculin,Humain,Mana,Ranged,Noxus,2010-10-05,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Swain.png
+Sylas,Mid,Masculin,Humain,Mana,Melee,Demacia,2019-01-25,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Sylas.png
+Syndra,Mid,Feminin,Humain,Mana,Ranged,Ionia,2012-09-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Syndra.png
+Tahm Kench,Support,Masculin,Démon,Mana,Melee,Bilgewater,2015-07-09,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/TahmKench.png
+Taliyah,Jungle,Feminin,Humain,Mana,Ranged,Shurima,2016-05-18,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Taliyah.png
+Talon,Jungle,Masculin,Humain,Mana,Melee,Noxus,2011-08-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Talon.png
+Taric,Support,Masculin,Humain,Mana,Melee,Targon,2009-08-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Taric.png
+Teemo,Top,Masculin,Yordle,Mana,Ranged,Bandle,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Teemo.png
+Thresh,Support,Masculin,Esprit,Mana,Mixed,Iles obscures,2013-01-23,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Thresh.png
+Tristana,ADC,Feminin,Yordle,Mana,Ranged,Bandle,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Tristana.png
+Trundle,Top,Masculin,Troll,Mana,Melee,Freljord,2010-12-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Trundle.png
+Tryndamere,Top,Masculin,Humain,Furie,Melee,Freljord,2009-05-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Tryndamere.png
+Twisted Fate,Mid,Masculin,Humain,Mana,Ranged,Bilgewater,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/TwistedFate.png
+Twitch,ADC,Masculin,Rat altéré,Mana,Ranged,Zaun,2009-05-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Twitch.png
+Udyr,Jungle,Masculin,Humain,Mana,Melee,Freljord,2009-12-02,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Udyr.png
+Urgot,Top,Masculin,Cyborg,Mana,Ranged,Zaun,2010-08-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Urgot.png
+Varus,ADC,Masculin,Darkin,Mana,Ranged,Ionia,2012-05-08,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Varus.png
+Vayne,ADC,Feminin,Humain,Mana,Ranged,Demacia,2011-05-10,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Vayne.png
+Veigar,Mid,Masculin,Yordle,Mana,Ranged,Bandle,2009-07-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Veigar.png
+Vel'Koz,Mid,Autre,Néant,Mana,Ranged,Néant,2014-02-27,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/VelKoz.png
+Vex,Mid,Feminin,Yordle,Mana,Ranged,Iles obscures,2021-09-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Vex.png
+Vi,Jungle,Feminin,Humain,Mana,Melee,Zaun,2012-12-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Vi.png
+Viego,Jungle,Masculin,Esprit,Aucun,Melee,Iles obscures,2021-01-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Viego.png
+Viktor,Mid,Masculin,Cyborg,Mana,Ranged,Zaun,2011-12-29,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Viktor.png
+Vladimir,Mid,Masculin,Humain,Santé,Ranged,Noxus,2010-07-27,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Vladimir.png
+Volibear,Jungle,Masculin,Esprit,Mana,Melee,Freljord,2011-11-29,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Volibear.png
+Warwick,Jungle,Masculin,Cyborg,Mana,Melee,Zaun,2009-02-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Warwick.png
+Wukong,Top,Masculin,Vastaya,Mana,Melee,Ionia,2011-07-26,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Wukong.png
+Xayah,ADC,Feminin,Vastaya,Mana,Ranged,Ionia,2017-04-19,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Xayah.png
+Xerath,Mid,Masculin,Transfiguré,Mana,Ranged,Shurima,2011-10-05,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Xerath.png
+Xin Zhao,Jungle,Masculin,Humain,Mana,Melee,Demacia,2010-07-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/XinZhao.png
+Yasuo,Mid,Masculin,Humain,Flux,Melee,Ionia,2013-12-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Yasuo.png
+Yone,Mid,Masculin,Humain/Azakana,Aucun,Melee,Ionia,2020-08-06,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Yone.png
+Yorick,Top,Masculin,Humain altéré,Mana,Melee,Iles obscures,2011-06-22,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Yorick.png
+Yuumi,Support,Feminin,Chat,Mana,Ranged,Bandle,2019-05-14,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Yuumi.png
+Zac,Jungle,Masculin,Golem,Santé,Melee,Zaun,2013-03-29,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Zac.png
+Zed,Mid,Masculin,Humain,Energie,Melee,Ionia,2012-11-13,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Zed.png
+Zeri,ADC,Feminin,Humain,Mana,Ranged,Zaun,2022-01-20,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Zeri.png
+Ziggs,Mid,Masculin,Yordle,Mana,Ranged,Zaun,2012-02-01,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Ziggs.png
+Zilean,Support,Masculin,Humain,Mana,Ranged,Icathia,2009-04-18,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Zilean.png
+Zoe,Mid,Feminin,Aspect,Mana,Ranged,Targon,2017-11-21,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Zoe.png
+Zyra,Support,Feminin,Esprit vegetal,Mana,Ranged,Ixtal,2012-07-24,https://s3-iwocs-acjj.s3.eu-west-3.amazonaws.com/champion_icons/Zyra.png
