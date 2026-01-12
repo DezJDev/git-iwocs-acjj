@@ -3,6 +3,7 @@ import { sequelize } from '../config/database';
 
 // Define Champion attributes interface
 export interface ChampionAttributes {
+  id?: number;
   championName: string;
   role: string;
   genre: string;
@@ -15,10 +16,11 @@ export interface ChampionAttributes {
 }
 
 // Define creation attributes (for creating new champions)
-export interface ChampionCreationAttributes extends Optional<ChampionAttributes, 'championName'> {}
+export interface ChampionCreationAttributes extends Optional<ChampionAttributes, 'id'> {}
 
 // Define the Champion model class
 export class Champion extends Model<ChampionAttributes, ChampionCreationAttributes> implements ChampionAttributes {
+  public id!: number;
   public championName!: string;
   public role!: string;
   public genre!: string;
@@ -33,10 +35,16 @@ export class Champion extends Model<ChampionAttributes, ChampionCreationAttribut
 // Initialize the model
 Champion.init(
   {
+    id: {
+      type: DataTypes.INTEGER,
+      primaryKey: true,
+      autoIncrement: true,
+      allowNull: false
+    },
     championName: {
       type: DataTypes.STRING(50),
-      primaryKey: true,
       allowNull: false,
+      unique: true,
       field: 'championname' // Map to lowercase database column
     },
     role: {
