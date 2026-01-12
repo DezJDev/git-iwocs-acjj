@@ -1,0 +1,278 @@
+:root {
+  --primary-color: #0397ab;
+  --secondary-color: #c89b3c;
+  --bg-dark: #010a13;
+  --bg-card: #1e2328;
+  --text-light: #f0e6d2;
+  --text-dark: #a09b8c;
+  --correct: #22c55e;
+  --partial: #eab308;
+  --incorrect: #ef4444;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  background: linear-gradient(135deg, var(--bg-dark) 0%, #0a1628 100%);
+  color: var(--text-light);
+  min-height: 100vh;
+  padding: 20px;
+}
+
+#app {
+  max-width: 1200px;
+  margin: 0 auto;
+}
+
+.header {
+  text-align: center;
+  margin-bottom: 40px;
+}
+
+.header h1 {
+  font-size: 3rem;
+  color: var(--secondary-color);
+  text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+  margin-bottom: 10px;
+}
+
+.header p {
+  color: var(--text-dark);
+  font-size: 1.1rem;
+}
+
+.game-container {
+  background: var(--bg-card);
+  border-radius: 12px;
+  padding: 30px;
+  box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);
+}
+
+.search-container {
+  margin-bottom: 30px;
+  position: relative;
+}
+
+.search-input {
+  width: 100%;
+  padding: 15px 20px;
+  font-size: 1.1rem;
+  background: var(--bg-dark);
+  border: 2px solid var(--primary-color);
+  border-radius: 8px;
+  color: var(--text-light);
+  outline: none;
+  transition: all 0.3s ease;
+}
+
+.search-input:focus {
+  border-color: var(--secondary-color);
+  box-shadow: 0 0 15px rgba(200, 155, 60, 0.3);
+}
+
+.autocomplete-list {
+  position: absolute;
+  top: 100%;
+  left: 0;
+  right: 0;
+  background: var(--bg-dark);
+  border: 2px solid var(--primary-color);
+  border-top: none;
+  border-radius: 0 0 8px 8px;
+  max-height: 300px;
+  overflow-y: auto;
+  z-index: 1000;
+  margin-top: -2px;
+}
+
+.autocomplete-item {
+  padding: 12px 20px;
+  cursor: pointer;
+  transition: background 0.2s ease;
+}
+
+.autocomplete-item:hover {
+  background: var(--bg-card);
+}
+
+.guesses-container {
+  margin-top: 30px;
+}
+
+.guess-table {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 20px;
+}
+
+.guess-table th {
+  background: var(--bg-dark);
+  padding: 12px;
+  text-align: center;
+  font-weight: 600;
+  color: var(--secondary-color);
+  border: 1px solid rgba(255, 255, 255, 0.1);
+}
+
+.guess-table td {
+  padding: 15px;
+  text-align: center;
+  border: 1px solid rgba(255, 255, 255, 0.1);
+  transition: all 0.3s ease;
+}
+
+.guess-row {
+  animation: slideIn 0.3s ease;
+}
+
+@keyframes slideIn {
+  from {
+    opacity: 0;
+    transform: translateY(-10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.cell-correct {
+  background: var(--correct) !important;
+  color: white;
+  font-weight: bold;
+}
+
+.cell-incorrect {
+  background: var(--incorrect) !important;
+  color: white;
+}
+
+.cell-partial {
+  background: var(--partial) !important;
+  color: white;
+  font-weight: bold;
+}
+
+.champion-icon {
+  width: 50px;
+  height: 50px;
+  border-radius: 8px;
+  object-fit: cover;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.3);
+}
+
+.victory-message {
+  text-align: center;
+  margin-top: 30px;
+  padding: 20px;
+  background: linear-gradient(135deg, var(--correct) 0%, #16a34a 100%);
+  border-radius: 12px;
+  animation: celebrate 0.5s ease;
+}
+
+@keyframes celebrate {
+  0%, 100% { transform: scale(1); }
+  50% { transform: scale(1.05); }
+}
+
+.victory-message h2 {
+  font-size: 2rem;
+  margin-bottom: 10px;
+}
+
+.new-game-btn,
+.restart-btn {
+  margin-top: 20px;
+  padding: 12px 30px;
+  font-size: 1.1rem;
+  background: var(--secondary-color);
+  color: var(--bg-dark);
+  border: none;
+  border-radius: 8px;
+  cursor: pointer;
+  font-weight: bold;
+  transition: all 0.3s ease;
+}
+
+.new-game-btn:hover,
+.restart-btn:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 4px 12px rgba(200, 155, 60, 0.4);
+}
+
+.restart-btn {
+  margin-top: 0;
+  padding: 10px 20px;
+  font-size: 0.95rem;
+}
+
+.restart-btn:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+  transform: none;
+}
+
+.stats {
+  display: flex;
+  justify-content: space-around;
+  margin-top: 20px;
+  padding: 15px;
+  background: var(--bg-dark);
+  border-radius: 8px;
+}
+
+.stat-item {
+  text-align: center;
+}
+
+.stat-value {
+  font-size: 2rem;
+  font-weight: bold;
+  color: var(--secondary-color);
+}
+
+.stat-label {
+  font-size: 0.9rem;
+  color: var(--text-dark);
+  margin-top: 5px;
+}
+
+.loading {
+  text-align: center;
+  padding: 40px;
+  font-size: 1.3rem;
+  color: var(--text-dark);
+}
+
+.error {
+  text-align: center;
+  padding: 20px;
+  background: var(--incorrect);
+  border-radius: 8px;
+  margin: 20px 0;
+}
+
+@media (max-width: 768px) {
+  .header h1 {
+    font-size: 2rem;
+  }
+
+  .guess-table {
+    font-size: 0.85rem;
+  }
+
+  .guess-table th,
+  .guess-table td {
+    padding: 8px 4px;
+  }
+
+  .champion-icon {
+    width: 35px;
+    height: 35px;
+  }
+}
